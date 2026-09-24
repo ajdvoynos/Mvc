@@ -1,0 +1,49 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "uniforme escolar",
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.FallbackIntent",
+          "samples": []
+        },
+        {
+          "name": "QuienVaDeUniformeIntent",
+          "slots": [],
+          "samples": [
+            "a quién le toca ir de uniforme hoy",
+            "a quién le toca ir de uniforme",
+            "quién le toca ir de uniforme hoy",
+            "quién va de uniforme hoy",
+            "quién va de uniforme",
+            "quién lleva uniforme hoy",
+            "quién lleva el uniforme hoy",
+            "a quién le toca el uniforme hoy",
+            "a quién le toca uniforme hoy",
+            "a quién le toca hoy",
+            "quién tiene que ir de uniforme hoy",
+            "quién tiene que llevar uniforme hoy",
+            "de quién es el turno del uniforme hoy"
+          ]
+        }
+      ],
+      "types": []
+    }
+  }
+}
