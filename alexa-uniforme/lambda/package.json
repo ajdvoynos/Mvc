@@ -1,0 +1,13 @@
+{
+  "name": "uniforme-escolar",
+  "version": "1.0.0",
+  "description": "Skill de Alexa: ¿a quién le toca ir de uniforme hoy?",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "ask-sdk-core": "^2.14.0",
+    "ask-sdk-model": "^1.86.0"
+  }
+}
